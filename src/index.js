@@ -9,7 +9,7 @@ wallet.registerRpcMessageHandler(async (originString, requestObject) => {
             description:
               'This custom confirmation is just for display purposes.',
             textAreaContent:
-              'But you can edit the snap source code to make it do something, if you want to!',
+              'But you can edit the snap source code to make it do something, if you want to! Like I just did, see?',
           },
         ],
       });
